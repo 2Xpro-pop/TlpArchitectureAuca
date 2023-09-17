@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TlpArchitectureProjectsServ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TlpArchitectureProjectEditor", "TlpArchitectureProjectEditor\TlpArchitectureProjectEditor.csproj", "{DAC56FE5-C6AC-4256-9F2A-890C780D20BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TlpArchitectureCoreServer", "TlpArchitectureCoreServer\TlpArchitectureCoreServer.csproj", "{5D3C89D9-687D-4DDB-B9E3-B0EA5AE0DC19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TlpArchitectureCoreServer", "TlpArchitectureCoreServer\TlpArchitectureCoreServer.csproj", "{5D3C89D9-687D-4DDB-B9E3-B0EA5AE0DC19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
